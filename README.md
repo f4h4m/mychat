@@ -3,7 +3,9 @@
 Use : 
 
    Visual Studio 2015
+   
    Sqlite3 Classes for c++
+
 
 Problem :
 
